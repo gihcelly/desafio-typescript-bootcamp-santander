@@ -1,4 +1,4 @@
-# Desafios do bootcamp  santander full-stack na Digital inovation one
+# Desafios do bootcamp  santander fullstack na Digital inovation one
 
 ## - Repositório base: https://github.com/lira1705/mentoria-typescript/tree/main/src/desafios
 
